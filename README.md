@@ -1,2 +1,2 @@
 # Tareas_python
-Aquí subiré mis tareas de python de un curso gratuito 
+Aquí subiré mis tareas de python relacionadas a ciencias de datos
